@@ -4,7 +4,7 @@ category : lessons
 tagline: "Supporting tagline"
 tags : [intro, beginner, jekyll, tutorial]
 ---
-#hello world
+#hello world you are awesome
 
 {% include JB/setup %}
 
